@@ -1,0 +1,5 @@
+.idea
+db.sqlite3
+magazine_env
+identifier.sqlite
+media
